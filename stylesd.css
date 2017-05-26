@@ -1,0 +1,579 @@
+/* -----NAVIGATION BAR ----- 
+*******************************
+	-----NAVIGATION BAR -----
+	****************************
+	  -----FIRST ROW ----- */
+
+.image-logo {
+	padding-left: 80px;
+}
+
+/* -----NAVIGATION BAR ----- 
+*******************************
+	-----NAVIGATION BAR -----
+	****************************
+	  -----FIRST ROW ----- */
+
+
+/* -----NAVIGATION BAR ----- 
+*******************************
+	-----NAVIGATION BAR -----
+	****************************
+	  -----NAVIGATION BAR ----- */
+
+.navbar,
+.navbar-first  {
+	background: linear-gradient(to left, lightblue, white);
+}
+
+.navbar-first {
+	border-top: 2px solid blue;
+}
+
+.navbar {
+	border-bottom: 3px solid blue;
+}
+
+.nav-logo h1 {
+	font-size: 40px;
+	font-family: 'Niconne', cursive;
+	font-weight: bold;
+	text-align: center;
+}
+
+.dropbtn {
+	background: rgba(0, 0, 0, 0.0);
+	color: black;
+    padding: auto;
+    font-size: 22px;
+    border: none;
+    cursor: pointer;
+	font-weight: bold;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    padding-left: 20px;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: lightblue;
+    min-width: 190px;
+    box-shadow: 20px 18px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+	font-style: italic;
+}
+
+.dropdown-content a {
+    color: black;
+	padding: 10px;
+    text-decoration: none;
+    display: block;
+	font-size: 13px;
+}
+
+.dropdown-content a:hover {
+	background-color: #f1f1f1;
+	text-decoration: none;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: white;
+	border-bottom: 1px solid black;
+	color: blue;
+}
+
+/* -----NAVIGATION BAR ----- 
+*******************************
+	-----NAVIGATION BAR -----
+	****************************
+	  -----NAVIGATION BAR ----- */
+
+/* WELCOME TO SMEDEREVO
+	     ARROW down
+***********************
+***********************
+***********************
+	                 */
+
+#main-title
+ {
+	font-family: 'Kalam', cursive;
+	text-align: center;
+	font-size: 45px;
+	font-weight: bold;
+	color: white;
+	text-shadow: 5px 3px blue;
+}
+
+#arrow {
+	text-align: center;
+}
+
+/* up WELCOME TO SMEDEREVO
+	     ARROW		
+***********************
+***********************
+***********************
+	                 */
+
+
+/* up WELCOME TO SMEDEREVO
+	     ARROW		
+***********************
+***********************
+***********************
+	                 */
+#main-container {
+	height: 400px;
+    background: linear-gradient(#797ec9, transparent 20%),
+    linear-gradient(110deg, #fff, transparent),
+    #ffa949 url('https://upload.wikimedia.org/wikipedia/commons/f/f4/%D0%A1%D0%BC%D0%B5%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D1%81%D0%BA%D0%B0_%D1%82%D0%B2%D1%80%D1%92%D0%B0%D0%B2%D0%B0_3.jpg') no-repeat center;
+    background-size: cover;
+}
+
+
+/*  MAIN PARAGRAPH
+Welcome to your city...	
+***********************
+***********************
+***********************
+	                 */
+
+.main-home-paragraph {
+	font-weight: bold;
+	font-family: 'Kalam', cursive;
+	text-align: center;
+	font-size: 34px;
+	box-shadow: outset 15px 10px rgba(0,0,0, .8);
+}
+
+/*  MAIN PARAGRAPH
+Welcome to your city...	
+***********************
+***********************
+***********************
+	                 */
+
+span h1 {
+	text-align: center;
+	text-shadow: 5px 2px black;
+	color: white;
+	font-weight: bold;
+	background-color: lightblue;
+	font-size: 50px;
+}
+
+
+
+/*  MAIN PARAGRAPH
+Ovog vikenda, tvrdjava
+teatar slike...	
+***********************
+***********************
+************************/
+
+/*  MAIN PARAGRAPH
+Ovog vikenda, tvrdjava
+teatar slike...	
+***********************
+***********************
+***********************
+	                 */
+
+footer {
+	background: linear-gradient(to left, #c0bffb, white);
+}
+
+
+.footer-left {
+	font-size: 12px;
+	text-align: center;
+	padding: 105px;
+}
+
+.footer-right {
+	font-size: 12px;
+	text-align: center;
+}
+	 
+	
+	
+
+/* *************
+****************
+****************
+****************
+SMEDEREVSKA TVRDJAVA
+*************
+****************
+****************
+*****************/			
+#page-tvrdjava {
+	background-color: #e8eae1;
+}	
+		
+
+#tvrdjava,
+#tvrdjava-pasus {
+	font-family: 'Kalam', cursive;
+	text-align: center;	
+}
+
+.well {
+	border: 1px solid lightblue;
+}
+
+
+
+.polaroid {
+  width: 100%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+
+.polaroid:hover {
+	
+}
+
+
+.image {
+  text-align: center;
+  padding: 10px 20px;
+}
+
+.pasusi {
+	background-color: #f2f2f2;
+	font-family: Sans;
+	font-size: 1em;
+	text-align: justify;
+}
+
+.naslovi {
+	text-align: center;
+	font-weight: bold;
+	font-family: Sans;
+}
+		
+		
+/* *************
+****************
+****************
+****************
+SMEDEREVSKA TVRDJAVA
+*************
+****************
+****************
+*****************/
+
+.dropbtn1 {
+	background: rgba(0, 0, 0, 0.0);
+	color: black;
+    padding: 10px;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+	font-weight: bold;
+}
+
+.dropdown1 {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content1 {
+    display: none;
+    position: absolute;
+    background-color: lightblue;
+    min-width: 190px;
+    box-shadow: 20px 18px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+	font-size: 10px;
+}
+
+.dropdown-content1 a {
+    color: black;
+	padding: 10px;
+    text-decoration: none;
+    display: block;
+	font-size: 13px;
+}
+
+.dropdown-content1 a:hover {
+	background-color: #ffffff;
+	text-decoration: none;
+}
+
+.dropdown1:hover .dropdown-content1 {
+    display: block;
+}
+
+.dropdown1:hover .dropbtn1 {
+    background-color: white;
+	border-bottom: 1px solid black;
+	color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* Style all font awesome icons */
+.fa {
+    padding: 5px;
+    font-size: 20px;
+    width: 50px;
+    text-align: center;
+}
+
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+	text-decoration: none;
+	background-color: white;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-tripadvisor {
+  background: #589442;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#backtotop {
+	color: black;
+	text-decoration: none;
+	
+}
+
+.totop {
+	text-align: center;
+}
+
+
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.container {
+  padding: 0 16;
+}
+
+.container::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: grey;
+  font-size: 16px;
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
+
+
+
+
+
+
+
+
+
+
+/* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */  
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+/* Add a background color and some padding around the form */
+.container12 {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+#txt {
+	padding-left: 92px;
+}
+
+
+
+
+
+/*---------------
+---------------
+------------------
+-----------------------
+*/
+
+.container {
+    position: relative;
+    width: 100%;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%)
+}
+
+#container1:hover .image {
+  opacity: 0.3;
+}
+
+#container1:hover .middle {
+  opacity: 1;
+}
+
+#container2:hover .image {
+  opacity: 0.3;
+}
+
+#container2:hover .middle {
+  opacity: 1;
+}
+
+#container3:hover .image {
+  opacity: 0.3;
+}
+
+#container3:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+/*---------------
+---------------
+------------------
+-----------------------
+*/
+
+
+
+
+.vest  {
+	background-color: lightblue;
+	width: 100%;
+	font-size: 20px;
+	text-align: center;
+	color: black;
+}
+
